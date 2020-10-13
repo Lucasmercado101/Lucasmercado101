@@ -15,7 +15,7 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 
 ## 📫 How to reach me: [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmercado101&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmercado101&layout=compact&theme=dracula)](#)
 <br>
 ![](https://enffmqegbgzq42l.m.pipedream.net)
 <!--
