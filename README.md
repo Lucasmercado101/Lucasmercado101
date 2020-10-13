@@ -7,7 +7,7 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 
 ## 🔧 Technologies I use:
 
-![](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=Visual-Studio-Code&logoColor=blue)&nbsp;![](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)&nbsp;![](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)&nbsp;![](https://img.shields.io/badge/Code-node.js-blue?style=flat&logo=node.js)
+![VSCode badge](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=Visual-Studio-Code&logoColor=blue)&nbsp;![JS badge](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)&nbsp;![React.js Badge](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)&nbsp;![Node.js Badge](https://img.shields.io/badge/Code-node.js-blue?style=flat&logo=node.js)
 
 
 ## 🌱 I’m currently learning:<br>
@@ -18,6 +18,7 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 
 [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmercado101&layout=compact)](#)
 <!--
 ---
 Some of my projects:
