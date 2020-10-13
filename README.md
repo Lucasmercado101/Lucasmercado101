@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1> Hello, I'm Lucas </h1>
+
+![counter](https://enffmqegbgzq42l.m.pipedream.net)
+
+I'm from Argentina and love developing websites. I'm currently looking for my first job.
+
+🌱 I’m currently learning:
+- React Query
+
+📫 How to reach me: [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
 <!--
-**Lucasmercado101/Lucasmercado101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+Some of my projects:
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucasmercado101&repo=Mytinerary)
 -->
