@@ -1,9 +1,7 @@
 [![Header](https://source.unsplash.com/4hbJ-eymZ1o/1000x250)](https://lucasmercado101.github.io)
 <h1 align="center"> Hello, I'm Lucas </h1>
 
-<h6 align="center">
-<img align="center" src="https://enffmqegbgzq42l.m.pipedream.net"></img>
-</h6>
+
 I'm from Argentina and love developing websites. I'm currently looking for my first job.
 
 ## 🔧 Technologies I use:
@@ -20,6 +18,8 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmercado101&layout=compact)](#)
+<br>
+![](https://enffmqegbgzq42l.m.pipedream.net)
 <!--
 ---
 Some of my projects:
