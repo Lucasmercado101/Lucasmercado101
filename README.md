@@ -5,6 +5,12 @@
 
 I'm from Argentina and love developing websites. I'm currently looking for my first job.
 
+🔧 Technologies I use: <br>
+
+![](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)
+![](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)
+![](https://img.shields.io/badge/Code-node.js-blue?style=flat&logo=node.js)
+
 🌱 I’m currently learning:
 - React Query
 
@@ -15,9 +21,6 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 Some of my projects:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucasmercado101&repo=Mytinerary)
 -->
-![](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)
-![](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)
-![](https://img.shields.io/badge/Code-node.js-blue?style=flat&logo=node.js)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasmercado101)](https://github.com/anuraghazra/github-readme-stats)
