@@ -24,11 +24,5 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmercado101&layout=compact&theme=dracula)](#)
 <br>
 ![](https://enffmqegbgzq42l.m.pipedream.net)
-<!--
----
-Some of my projects:
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lucasmercado101&repo=Mytinerary)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 You can find me on <a href="https://www.linkedin.com/in/lucas-mercado-619179145/"> <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin&logoColor=white)"/></a>
