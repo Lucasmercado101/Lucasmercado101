@@ -1,4 +1,4 @@
-[![Header](https://source.unsplash.com/4hbJ-eymZ1o/1000x250)](https://lucasmercado101.github.io)
+[![Header](https://source.unsplash.com/4hbJ-eymZ1o/1000x200)](https://lucasmercado101.github.io)
 <h1 align="center"> Hello, I'm Lucas </h1>
 
 
