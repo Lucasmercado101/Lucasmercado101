@@ -9,9 +9,14 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 ![VSCode badge](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=Visual-Studio-Code&logoColor=blue)&nbsp;![JS badge](https://img.shields.io/badge/Code-Javascript-blue?style=flat&logo=javascript)&nbsp;![React.js Badge](https://img.shields.io/badge/Code-React.js-blue?style=flat&logo=react)&nbsp;![Node.js Badge](https://img.shields.io/badge/Code-node.js-blue?style=flat&logo=node.js)
 
 
-## 🌱 I’m currently learning:<br>
+## 🌱 I’m Currently Learning:<br>
 
 - React Query
+
+## 🎓 I’m Interested In Learning:<br>
+
+- Vue.js
+- Angular
 
 ## 📫 How to reach me: [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
