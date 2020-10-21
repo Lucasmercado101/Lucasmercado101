@@ -12,12 +12,12 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 ## 🌱 I’m Currently Learning:<br>
 
 - React Query
+- Material UI
 
 ## 🎓 I’m Interested In Learning:<br>
 
 - Vue.js
 - Angular
-- MAterial UI
 
 ## 📫 How to reach me: [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
