@@ -11,8 +11,9 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 
 ## 🌱 I’m Currently Learning:<br>
 
-- React Query
-- Material UI
+- [Framer Motion](https://www.framer.com/motion)
+- [React Query](https://react-query.tanstack.com)
+- [Styled Components](https://styled-components.com/)
 
 ## 🎓 I’m Interested In Learning:<br>
 
