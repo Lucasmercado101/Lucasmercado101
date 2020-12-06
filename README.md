@@ -17,7 +17,7 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 
 ## 🎓 I’m Interested In Learning:<br>
 
-- Vue.js
+- Vue
 - Angular
 
 ## 📫 How to reach me: [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
