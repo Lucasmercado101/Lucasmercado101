@@ -14,6 +14,7 @@ I'm from Argentina and love developing websites. I'm currently looking for my fi
 - [Framer Motion](https://www.framer.com/motion)
 - [React Query](https://react-query.tanstack.com)
 - [Styled Components](https://styled-components.com/)
+- [Next.js](https://nextjs.org/)
 
 ## 🎓 I’m Interested In Learning:<br>
 
