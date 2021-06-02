@@ -11,7 +11,8 @@ I'm from Argentina and love developing websites. You can find my website here: h
 
 ## 🌱 I’m Currently Learning:<br>
 
-- [React Native](https://reactnative.dev/)
+- [ReScript](https://rescript-lang.org/)
+- [Elm](https://elm-lang.org/)
 
 ## 🎓 I’m Interested In Learning:<br>
 
