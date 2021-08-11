@@ -12,6 +12,7 @@ I'm from Argentina and love developing websites. You can find my website here: h
 ## 🌱 I’m Currently Learning:<br>
 
 - [Elm](https://elm-lang.org/)
+- [Rust](https://www.rust-lang.org/)
 
 ## 🎓 I’m Interested In Learning:<br>
 
