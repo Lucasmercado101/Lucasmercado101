@@ -11,14 +11,11 @@ I'm from Argentina and love developing websites. You can find my website here: h
 
 ## 🌱 I’m Currently Learning:<br>
 
-- [Elm](https://elm-lang.org/)
-
 ## 🎓 I’m Interested In Learning:<br>
 
 - GrahpQL
 - Apollo
 - Vue
-- Angular
 
 ## 📫 How to reach me: [lucasmercado101@gmail.com](mailto:lucasmercado101@gmail.com)
 
