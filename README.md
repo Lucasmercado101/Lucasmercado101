@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I'm Lucas </h1>
 
 
-I'm from Argentina and love developing websites. You can find my website here: https://lucasmercado101.github.io
+I'm from Argentina and love developing websites.
 
 ## 🔧 Technologies I use:
 
