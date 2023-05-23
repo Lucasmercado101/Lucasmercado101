@@ -13,7 +13,7 @@ I'm from Argentina and love coding.
 
 ## 🎓 I’m Interested In Learning:<br>
 
-- GrahpQL
+- Haskell
 - Apollo
 - Vue
 
