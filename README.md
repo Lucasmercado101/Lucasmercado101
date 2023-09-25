@@ -10,6 +10,8 @@ I'm from Argentina and love coding.
 
 
 ## 🌱 I’m Currently Learning:<br>
+- Bun JS
+- ElysiaJS
 
 ## 🎓 I’m Interested In Learning:<br>
 
